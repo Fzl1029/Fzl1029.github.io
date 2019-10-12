@@ -5,9 +5,9 @@
   <subtitle>Zili&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://fangzili.tech/"/>
+  <link href="http://fzl1029.github.io/"/>
   <updated>2018-11-06T04:58:30.696Z</updated>
-  <id>http://fangzili.tech/</id>
+  <id>http://fzl1029.github.io/</id>
   
   <author>
     <name>Fang Zili</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>中超，老子回来了!</title>
-    <link href="http://fangzili.tech/2018/11/06/%E4%B8%AD%E8%B6%85%EF%BC%8C%E8%80%81%E5%AD%90%E5%9B%9E%E6%9D%A5%E4%BA%86%EF%BC%81/"/>
-    <id>http://fangzili.tech/2018/11/06/中超，老子回来了！/</id>
+    <link href="http://fzl1029.github.io/2018/11/06/%E4%B8%AD%E8%B6%85%EF%BC%8C%E8%80%81%E5%AD%90%E5%9B%9E%E6%9D%A5%E4%BA%86%EF%BC%81/"/>
+    <id>http://fzl1029.github.io/2018/11/06/中超，老子回来了！/</id>
     <published>2018-11-06T15:50:56.000Z</published>
     <updated>2018-11-06T04:58:30.696Z</updated>
     
@@ -34,17 +34,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://fangzili.tech/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://fzl1029.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="足球，深足" scheme="http://fangzili.tech/tags/%E8%B6%B3%E7%90%83%EF%BC%8C%E6%B7%B1%E8%B6%B3/"/>
+      <category term="足球，深足" scheme="http://fzl1029.github.io/tags/%E8%B6%B3%E7%90%83%EF%BC%8C%E6%B7%B1%E8%B6%B3/"/>
     
   </entry>
   
   <entry>
     <title>Design and Implementation of Aging Sensor based on FPGA</title>
-    <link href="http://fangzili.tech/2018/06/29/%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E8%80%81%E5%8C%96%E4%BC%A0%E6%84%9F%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0/"/>
-    <id>http://fangzili.tech/2018/06/29/基于FPGA的老化传感器设计及实现/</id>
+    <link href="http://fzl1029.github.io/2018/06/29/%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E8%80%81%E5%8C%96%E4%BC%A0%E6%84%9F%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0/"/>
+    <id>http://fzl1029.github.io/2018/06/29/基于FPGA的老化传感器设计及实现/</id>
     <published>2018-06-29T23:36:08.000Z</published>
     <updated>2018-07-29T10:58:28.000Z</updated>
     
@@ -56,17 +56,17 @@
     
     </summary>
     
-      <category term="Technic" scheme="http://fangzili.tech/categories/Technic/"/>
+      <category term="Technic" scheme="http://fzl1029.github.io/categories/Technic/"/>
     
     
-      <category term="FPGA, aging sensor" scheme="http://fangzili.tech/tags/FPGA-aging-sensor/"/>
+      <category term="FPGA, aging sensor" scheme="http://fzl1029.github.io/tags/FPGA-aging-sensor/"/>
     
   </entry>
   
   <entry>
     <title>毕业典礼演讲稿</title>
-    <link href="http://fangzili.tech/2018/06/09/%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%BC%94%E8%AE%B2%E7%A8%BF/"/>
-    <id>http://fangzili.tech/2018/06/09/毕业典礼演讲稿/</id>
+    <link href="http://fzl1029.github.io/2018/06/09/%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%BC%94%E8%AE%B2%E7%A8%BF/"/>
+    <id>http://fzl1029.github.io/2018/06/09/毕业典礼演讲稿/</id>
     <published>2018-06-09T15:17:34.000Z</published>
     <updated>2018-11-06T02:30:40.000Z</updated>
     
@@ -78,17 +78,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://fangzili.tech/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://fzl1029.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="演讲稿" scheme="http://fangzili.tech/tags/%E6%BC%94%E8%AE%B2%E7%A8%BF/"/>
+      <category term="演讲稿" scheme="http://fzl1029.github.io/tags/%E6%BC%94%E8%AE%B2%E7%A8%BF/"/>
     
   </entry>
   
   <entry>
     <title>本科毕业散文(1)</title>
-    <link href="http://fangzili.tech/2018/04/19/%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E6%95%A3%E6%96%87-1/"/>
-    <id>http://fangzili.tech/2018/04/19/本科毕业散文-1/</id>
+    <link href="http://fzl1029.github.io/2018/04/19/%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E6%95%A3%E6%96%87-1/"/>
+    <id>http://fzl1029.github.io/2018/04/19/本科毕业散文-1/</id>
     <published>2018-04-20T02:49:27.000Z</published>
     <updated>2018-07-29T09:01:10.000Z</updated>
     
@@ -100,17 +100,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://fangzili.tech/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://fzl1029.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="连载,回忆录" scheme="http://fangzili.tech/tags/%E8%BF%9E%E8%BD%BD-%E5%9B%9E%E5%BF%86%E5%BD%95/"/>
+      <category term="连载,回忆录" scheme="http://fzl1029.github.io/tags/%E8%BF%9E%E8%BD%BD-%E5%9B%9E%E5%BF%86%E5%BD%95/"/>
     
   </entry>
   
   <entry>
     <title>博客测试文档</title>
-    <link href="http://fangzili.tech/2018/03/19/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
-    <id>http://fangzili.tech/2018/03/19/博客测试文档/</id>
+    <link href="http://fzl1029.github.io/2018/03/19/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    <id>http://fzl1029.github.io/2018/03/19/博客测试文档/</id>
     <published>2018-03-20T02:00:56.000Z</published>
     <updated>2018-03-31T14:31:48.000Z</updated>
     
@@ -122,10 +122,10 @@
     
     </summary>
     
-      <category term="Other" scheme="http://fangzili.tech/categories/Other/"/>
+      <category term="Other" scheme="http://fzl1029.github.io/categories/Other/"/>
     
     
-      <category term="测试" scheme="http://fangzili.tech/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://fzl1029.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
