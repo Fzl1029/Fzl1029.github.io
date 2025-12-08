@@ -1,3 +1,4 @@
+https://fzl1029.github.io/about/index.html
 https://fzl1029.github.io/2018/06/29/%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E8%80%81%E5%8C%96%E4%BC%A0%E6%84%9F%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0/
 https://fzl1029.github.io/2020/05/07/20SPRING-Summary/
 https://fzl1029.github.io/2020/03/14/Spicy-Hot-Pot-%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85/
@@ -14,7 +15,6 @@ https://fzl1029.github.io/categories/index.html
 https://fzl1029.github.io/2018/11/06/%E4%B8%AD%E8%B6%85%EF%BC%8C%E8%80%81%E5%AD%90%E5%9B%9E%E6%9D%A5%E4%BA%86%EF%BC%81/
 https://fzl1029.github.io/2018/03/19/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/
 https://fzl1029.github.io/2019/12/18/19FALL-Summary/
-https://fzl1029.github.io/about/index.html
 https://fzl1029.github.io/
 https://fzl1029.github.io/tags/%E5%9B%9E%E5%BF%86%E5%BD%95-Memo/
 https://fzl1029.github.io/tags/%E6%B5%8B%E8%AF%95/
