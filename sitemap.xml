@@ -2,122 +2,251 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fzl1029.github.io/2018/06/29/%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E8%80%81%E5%8C%96%E4%BC%A0%E6%84%9F%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0/</loc>
+    
+    <lastmod>2025-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fzl1029.github.io/2020/05/07/20SPRING-Summary/</loc>
     
-    <lastmod>2020-05-08T02:35:53.354Z</lastmod>
+    <lastmod>2020-05-08</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2020/03/14/Spicy-Hot-Pot-%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%94%85/</loc>
     
-    <lastmod>2020-03-15T02:05:27.368Z</lastmod>
+    <lastmod>2020-03-15</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2020/03/10/Sauteed-Chicken-Gizzards-with-Pepper-%E7%88%86%E7%82%92%E9%B8%A1%E8%83%97/</loc>
     
-    <lastmod>2020-03-15T01:29:48.680Z</lastmod>
+    <lastmod>2020-03-15</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://fzl1029.github.io/2020/02/29/Double-Cooked-Pork-Slices-with-Potato-%E5%9C%9F%E8%B1%86%E5%9B%9E%E9%94%85%E8%82%89/</loc>
+    <loc>https://fzl1029.github.io/2020/03/01/Double-Cooked-Pork-Slices-with-Potato-%E5%9C%9F%E8%B1%86%E5%9B%9E%E9%94%85%E8%82%89/</loc>
     
-    <lastmod>2020-03-10T20:55:02.554Z</lastmod>
+    <lastmod>2020-03-10</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2020/02/09/Baked-Chicken-Wings-%E7%83%A4%E7%AE%B1%E7%83%A4%E9%B8%A1%E7%BF%85/</loc>
     
-    <lastmod>2020-02-10T03:38:11.481Z</lastmod>
+    <lastmod>2020-02-10</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2020/02/08/Braised-Chicken-and-Rice-%E9%BB%84%E7%84%96%E9%B8%A1%E7%B1%B3%E9%A5%AD/</loc>
     
-    <lastmod>2020-02-09T03:04:17.775Z</lastmod>
+    <lastmod>2020-02-09</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://fzl1029.github.io/2018/06/08/%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%BC%94%E8%AE%B2%E7%A8%BF/</loc>
+    <loc>https://fzl1029.github.io/2018/06/09/%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E6%BC%94%E8%AE%B2%E7%A8%BF/</loc>
     
-    <lastmod>2020-02-09T02:41:53.319Z</lastmod>
+    <lastmod>2020-02-09</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://fzl1029.github.io/2020/01/10/Travels-of-2019-2020-Winter-Break/</loc>
+    <loc>https://fzl1029.github.io/2020/01/11/Travels-of-2019-2020-Winter-Break/</loc>
     
-    <lastmod>2020-01-12T02:46:23.815Z</lastmod>
+    <lastmod>2020-01-12</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/gallery/index.html</loc>
     
-    <lastmod>2020-01-11T17:31:10.941Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2018/04/19/%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E6%95%A3%E6%96%87-1/</loc>
     
-    <lastmod>2020-01-11T17:18:02.519Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/index.html</loc>
     
-    <lastmod>2020-01-11T16:52:37.333Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/categories/index.html</loc>
     
-    <lastmod>2020-01-11T16:52:27.824Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://fzl1029.github.io/2018/11/05/%E4%B8%AD%E8%B6%85%EF%BC%8C%E8%80%81%E5%AD%90%E5%9B%9E%E6%9D%A5%E4%BA%86%EF%BC%81/</loc>
+    <loc>https://fzl1029.github.io/2018/11/06/%E4%B8%AD%E8%B6%85%EF%BC%8C%E8%80%81%E5%AD%90%E5%9B%9E%E6%9D%A5%E4%BA%86%EF%BC%81/</loc>
     
-    <lastmod>2020-01-11T15:57:33.345Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
-  </url>
-  
-  <url>
-    <loc>https://fzl1029.github.io/2018/06/29/%E5%9F%BA%E4%BA%8EFPGA%E7%9A%84%E8%80%81%E5%8C%96%E4%BC%A0%E6%84%9F%E5%99%A8%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%9E%E7%8E%B0/</loc>
-    
-    <lastmod>2020-01-11T15:57:08.781Z</lastmod>
-    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2018/03/19/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/</loc>
     
-    <lastmod>2020-01-11T05:39:21.408Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/2019/12/18/19FALL-Summary/</loc>
     
-    <lastmod>2020-01-11T05:26:01.820Z</lastmod>
+    <lastmod>2020-01-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/about/index.html</loc>
     
-    <lastmod>2019-10-13T03:12:40.737Z</lastmod>
+    <lastmod>2019-10-13</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://fzl1029.github.io/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/%E5%9B%9E%E5%BF%86%E5%BD%95-Memo/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/FPGA-aging-sensor/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/%E6%BC%94%E8%AE%B2%E7%A8%BF/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/%E8%B6%B3%E7%90%83-%E6%B7%B1%E8%B6%B3/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/%E8%BF%9E%E8%BD%BD-%E5%9B%9E%E5%BF%86%E5%BD%95-Memo/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/tags/%E9%A3%9F%E7%89%A9-Food/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://fzl1029.github.io/categories/%E9%9A%8F%E7%AC%94-Essay/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/categories/Other/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/categories/%E6%8A%80%E6%9C%AF-Technic/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/categories/%E8%8F%9C%E8%B0%B1-Recipe/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fzl1029.github.io/categories/%E6%BC%94%E8%AE%B2%E7%A8%BF-Lecture-Note/</loc>
+    <lastmod>2025-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 </urlset>
