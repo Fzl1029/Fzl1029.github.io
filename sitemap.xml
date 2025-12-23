@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fzl1029.github.io/2025/12/11/Few-posts-on-other-platform/</loc>
+    
+    <lastmod>2025-12-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fzl1029.github.io/about/index.html</loc>
     
     <lastmod>2025-12-08</lastmod>
@@ -157,7 +166,7 @@
 
   <url>
     <loc>https://fzl1029.github.io/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,49 +174,49 @@
   
   <url>
     <loc>https://fzl1029.github.io/tags/%E5%9B%9E%E5%BF%86%E5%BD%95-Memo/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/FPGA-aging-sensor/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/%E6%BC%94%E8%AE%B2%E7%A8%BF/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/%E8%B6%B3%E7%90%83-%E6%B7%B1%E8%B6%B3/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/%E8%BF%9E%E8%BD%BD-%E5%9B%9E%E5%BF%86%E5%BD%95-Memo/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/tags/%E9%A3%9F%E7%89%A9-Food/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -216,35 +225,35 @@
   
   <url>
     <loc>https://fzl1029.github.io/categories/%E9%9A%8F%E7%AC%94-Essay/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/categories/Other/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/categories/%E6%8A%80%E6%9C%AF-Technic/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/categories/%E8%8F%9C%E8%B0%B1-Recipe/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://fzl1029.github.io/categories/%E6%BC%94%E8%AE%B2%E7%A8%BF-Lecture-Note/</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2025-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
